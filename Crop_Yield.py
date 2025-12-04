@@ -104,7 +104,7 @@ def save_prediction(soil, temp, rain, past, pred):
 def crop_yield_predict():
     st.markdown("<h1 class='title'>🌾 Crop Yield Prediction 🌾</h1>", unsafe_allow_html=True)
 
-    model_path = r"C:\Users\rutuj\OneDrive\Desktop\Crop Yield\crop_yield_model (1).pkl"
+    model_path = r"crop_yield_model (1).pkl"
     if not os.path.exists(model_path):
         st.error("❌ Model not found!")
         return
@@ -172,3 +172,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
