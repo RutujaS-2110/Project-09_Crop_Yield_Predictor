@@ -18,3 +18,6 @@ Demo Video - https://drive.google.com/file/d/13IMAv6cpEdbRIotc0LK606kKOFp1yv_M/v
 </div>
 
 **Best Model:** Decision Tree — highest accuracy and lowest error, making it ideal for crop yield prediction.
+
+
+**Research Paper Published -** https://www.researchgate.net/publication/399076045_Accessible_Crop_Yield_Prediction_Using_Decision_Trees_A_Farmer-Oriented_Web-Based_AI_Application 
